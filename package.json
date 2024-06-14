@@ -1,0 +1,22 @@
+{
+  "name": "xudt-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nervosnetwork/ckb-sdk-utils": "^0.109.1",
+    "@rgbpp-sdk/btc": "^0.3.0",
+    "@rgbpp-sdk/ckb": "^0.3.0",
+    "@rgbpp-sdk/service": "^0.3.0",
+    "@types/node": "^20.14.2",
+    "dotenv": "^16.4.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
